@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-27T13:49:59Z" name="Suite" finished-at="2020-02-27T13:50:32Z" duration-ms="32948">
+    <groups>
+    </groups>
+    <test started-at="2020-02-27T13:49:59Z" name="Test" finished-at="2020-02-27T13:50:32Z" duration-ms="32948">
+      <class name="FirstTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:FirstTest@1c93084c]" started-at="2020-02-27T13:49:59Z" name="setup" finished-at="2020-02-27T13:50:16Z" duration-ms="16291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FTest()[pri:0, instance:FirstTest@1c93084c]" started-at="2020-02-27T13:50:16Z" name="FTest" finished-at="2020-02-27T13:50:31Z" duration-ms="15430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:FirstTest@1c93084c]" started-at="2020-02-27T13:50:31Z" name="teardown" finished-at="2020-02-27T13:50:32Z" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
